@@ -17,6 +17,7 @@ $ sudo apt-get install libtool
 
 3.W konsoli wpisywac w folderze glownym (folder z configure.ac):
 ```sh
+$ libtoolize
 $ aclocal
 $ automake --add-missing
 $ autoconf
