@@ -1,4 +1,4 @@
 # Zadanie 2
-Version: 1.3
+Version: 1.4
 
 Program ma na celu liczenie pola kwadratu i objetosci szescianu o boku podanym przez uzytkownika.
