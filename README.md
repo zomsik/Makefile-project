@@ -31,9 +31,6 @@ $ make
 $ ./src/main
 ```
 
-## Licencja
-Licencja MIT zawarta w pliku LICENSE
-
 ## Historia wersji
 + 1.X - Program uzywa plikow .c i .h do liczenia pola i objetosci
   + 1.6 - Program jest w pelni funkcjonalny
@@ -41,3 +38,6 @@ Licencja MIT zawarta w pliku LICENSE
   + 2.2 - Program jest w pelni funkcjonalny
 + 3.X - Program tworzy i uzywa bibliotek statycznych .a i dynamicznych .la
   + 3.4 - Program jest w pelni funkcjonalny
+
+## Licencja
+Licencja MIT zawarta w pliku LICENSE
