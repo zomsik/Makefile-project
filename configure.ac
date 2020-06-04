@@ -8,7 +8,7 @@ AC_PROG_RANLIB
 AC_LANG(C)
 # Ustawiamy kompilator jezyka C
 AC_PROG_CC
-# Prezycujemy gdzie Automake ma zostac utworzony
+# Precyzujemy gdzie Automake ma zostac utworzony
 AC_CONFIG_FILES([Makefile  my_inc/Makefile src/Makefile])
 # Utworzenie skryptu konfigurujacego
 AC_OUTPUT

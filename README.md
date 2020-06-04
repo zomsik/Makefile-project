@@ -1,6 +1,6 @@
 # Zadanie 2
 
-Version: 2.3
+Version: 2.4
 
 Program jest napisany strukturalnie w jezyku C. \
 Program ma na celu liczenie pola kwadratu i objetosci szescianu o boku podanym przez uzytkownika. \
@@ -12,6 +12,7 @@ Uzytkownik podaje liczbe zmiennoprzecinkowa, a progam Wypisuje pole i objetosc.
 ```sh
 $ sudo apt-get install autconf
 $ sudo apt-get install automake
+$ sudo apt-get install libtool
 ```
 
 3.W konsoli wpisywac w folderze glownym (folder z configure.ac):
@@ -33,7 +34,7 @@ $ ./src/main
 Licencja MIT zawarta w pliku LICENSE
 
 ## Historia wersji
- + 1.X - Program uzywa plikow .c i .h do liczenia pola i objetosci
-  * 1.6 - Program jest w pelni funkcjonalny
- + 2.X - Program tworzy i uzywa bibliotek statycznych .a
-  * 2.2 - Program jest w pelni funkcjonalny
++ 1.X - Program uzywa plikow .c i .h do liczenia pola i objetosci
+  + 1.6 - Program jest w pelni funkcjonalny
++ 2.X - Program tworzy i uzywa bibliotek statycznych .a
+  + 2.2 - Program jest w pelni funkcjonalny
