@@ -1,0 +1,2 @@
+
+double szescian(double bok);

@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include "kwadrat.h"
-#include "szescian.h"
+#include "my_inc/kwadrat.h"
+#include "my_inc/szescian.h"
 
 int main()
 {
