@@ -1,20 +1,31 @@
 # Zadanie 2
 Version: 1.6
 
+Program jest napisany strukturalnie w jezyku C.
 Program ma na celu liczenie pola kwadratu i objetosci szescianu o boku podanym przez uzytkownika.
 
-# Sposob uzycia
-Pobrac wszystkie pliki.
-W konsoli wpisywac w folderze glownym (folder z configure.ac):
-	aclocal
-	automake --add-missing
-	autoconf
-	automake
-	./configure
-	gcc-v
-	make
+Uzytkownik podaje liczbe zmiennoprzecinkowa, a progam Wypisuje pole i objetosc.
 
-Program uruchomiany jest nastepujaco:
-	./src/main
+## Sposob uzycia
+1.Pobrac wszystkie pliki.
+2.Zaintalowac wymagane pakiety:
+```sh
+$ sudo apt-get install autconf
+$ sudo apt-get install automake
+```
 
+3.W konsoli wpisywac w folderze glownym (folder z configure.ac):
+```sh
+$ aclocal
+$ automake --add-missing
+$ autoconf
+$ automake
+$ ./configure
+$ sudo gcc-v
+$ make
+```
 
+4. Program uruchomiany jest nastepujaco:
+```sh
+$ ./src/main
+```
