@@ -1,5 +1,5 @@
 # Zadanie 2
-Version: 1.6
+Version: 1.7
 
 Program jest napisany strukturalnie w jezyku C.
 Program ma na celu liczenie pola kwadratu i objetosci szescianu o boku podanym przez uzytkownika.
@@ -29,3 +29,6 @@ $ make
 ```sh
 $ ./src/main
 ```
+
+## Licencja
+Licencja MIT zawarta w pliku LICENSE
