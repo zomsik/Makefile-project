@@ -1,10 +1,15 @@
 # Zadanie 2
+Version: 3.6
+## Spis tresci
+* [Informacje ogolne](#informacje-ogolne)
+* [Sposob uzycia](#sposob-uzycia)
+* [Historia wersji](#historia-wersji)
+* [Licencja](licencja)
 
-Version: 3.5
-
-Program jest napisany strukturalnie w jezyku C. \
+## Informacje ogolne
 Program ma na celu liczenie pola kwadratu i objetosci szescianu o boku podanym przez uzytkownika. \
-Uzytkownik podaje liczbe zmiennoprzecinkowa, a progam Wypisuje pole i objetosc.
+Uzytkownik podaje liczbe zmiennoprzecinkowa, a progam Wypisuje pole i objetosc.\
+Program jest napisany strukturalnie w jezyku C. 
 
 ## Sposob uzycia
 1.Pobrac wszystkie pliki. \
