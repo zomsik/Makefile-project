@@ -1,6 +1,6 @@
 # Zadanie 2
 
-Version: 2.5
+Version: 3.4
 
 Program jest napisany strukturalnie w jezyku C. \
 Program ma na celu liczenie pola kwadratu i objetosci szescianu o boku podanym przez uzytkownika. \
@@ -17,6 +17,7 @@ $ sudo apt-get install libtool
 
 3.W konsoli wpisywac w folderze glownym (folder z configure.ac):
 ```sh
+$ libtoolize
 $ aclocal
 $ automake --add-missing
 $ autoconf
@@ -38,3 +39,5 @@ Licencja MIT zawarta w pliku LICENSE
   + 1.6 - Program jest w pelni funkcjonalny
 + 2.X - Program tworzy i uzywa bibliotek statycznych .a
   + 2.2 - Program jest w pelni funkcjonalny
++ 3.X - Program tworzy i uzywa bibliotek statycznych .a i dynamicznych .la
+  + 3.4 - Program jest w pelni funkcjonalny
