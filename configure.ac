@@ -2,6 +2,8 @@
 AC_INIT([Zad2],[1.0])
 # Inicjalizacja Automake
 AM_INIT_AUTOMAKE
+# Inicjalizacja Libtoola
+LT_INIT
 # Uzywanie bibliotek
 AC_PROG_RANLIB
 # Sprawdzanie kompilatora
