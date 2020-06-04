@@ -4,6 +4,7 @@ AC_INIT([Zad2],[1.0])
 AM_INIT_AUTOMAKE
 # Inicjalizacja Libtoola
 LT_INIT
+AC_CONFIG_MACRO_DIRS([m4])
 # Uzywanie bibliotek
 AC_PROG_RANLIB
 # Sprawdzanie kompilatora
