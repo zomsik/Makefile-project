@@ -1,5 +1,5 @@
 # Zadanie 2
-Version: 2.1
+Version: 2.2
 
 Program jest napisany strukturalnie w jezyku C.
 Program ma na celu liczenie pola kwadratu i objetosci szescianu o boku podanym przez uzytkownika.
