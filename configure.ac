@@ -2,6 +2,8 @@
 AC_INIT([Zad2],[1.0])
 # Inicjalizacja Automake
 AM_INIT_AUTOMAKE
+# Uzywanie bibliotek
+AC_PROG_RANLIB
 # Sprawdzanie kompilatora
 AC_LANG(C)
 # Ustawiamy kompilator jezyka C
