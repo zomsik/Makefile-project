@@ -1,6 +1,6 @@
 # Zadanie 2
 
-Version: 3.0
+Version: 3.1
 
 Program jest napisany strukturalnie w jezyku C. \
 Program ma na celu liczenie pola kwadratu i objetosci szescianu o boku podanym przez uzytkownika. \
@@ -38,3 +38,4 @@ Licencja MIT zawarta w pliku LICENSE
   + 1.6 - Program jest w pelni funkcjonalny
 + 2.X - Program tworzy i uzywa bibliotek statycznych .a
   + 2.2 - Program jest w pelni funkcjonalny
++ 3.X - Program tworzy i uzywa bibliotek statycznych .a i dynamicznych .la
