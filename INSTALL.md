@@ -7,7 +7,7 @@ $ sudo apt-get install autoconf automake libtool
 ```
 
 2.Pobierz z folderu archive interesujaca Cie wersje programu. \
-Informacje o sposobie dzialania kazdej wersji znajduja sie w pliku README.md
+Informacja o sposobie dzialania kazdej wersji znajduje sie w pliku [README.md](README.md "Plik README.md")
 
 3.Rozpakuj plik przy pomocy polecenia:
 ```sh
