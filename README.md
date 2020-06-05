@@ -52,5 +52,5 @@ Licencja MIT zawarta w pliku LICENSE
 
 ## Autor
 Autorem repozytorium jest [Tomasz Wiejak](https://github.com/zomsik "Link do profilu github") \
-Podziekowania dla [Barisa Yuksela](https://www.youtube.com/channel/UCibKclzsnnHjQZFOLuykZ1A "Kanal na Youtube") swietny za poradnik na Youtubie odnosnie automake \
+Podziekowania dla [Barisa Yuksela](https://www.youtube.com/channel/UCibKclzsnnHjQZFOLuykZ1A "Kanal na Youtube") za poradnik na Youtubie odnosnie automake \
 oraz dla spolecznosci [stackoverflow.com](https://stackoverflow.com/) za rozwianie wszelkich watpliwosci.
