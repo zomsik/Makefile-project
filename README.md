@@ -3,6 +3,7 @@ Version: 3.7
 ## Spis tresci
 * [Informacje ogolne](#informacje-ogolne)
 * [Sposob uzycia](#sposob-uzycia)
+* [Instalacja poprzez plik z .tar.gz](#instalacja-poprzez-plik-z-.tar.gz)
 * [Historia wersji](#historia-wersji)
 * [Licencja](#licencja)
 * [Autor](#autor)
@@ -38,6 +39,9 @@ Ustawienie kompilatora (sudo gcc -v) wystarczy zrobic tylko raz na systemie oper
 ```sh
 $ ./src/main
 ```
+
+## Instalacja poprzez plik z .tar.gz
+Instrukcja instalacji poprzez plik z archiwum znajduje sie w pliku [INSTALL.md](INSTALL.md "Link do pliku INSTALL.md")
 
 ## Historia wersji
 + 1.X - Program uzywa plikow .c i .h do liczenia pola i objetosci
