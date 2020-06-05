@@ -1,15 +1,29 @@
 
-Instalacja wszystkich pakietow przy pomocy jednej komendy:
+# Instalacja programu poprzez plik .tar.gz
+
+1.Zainstaluj wszystkie wymagane pakiety:
 ```sh
-sudo apt-get install autoconf automake libtool
+$ sudo apt-get install autoconf automake libtool
 ```
 
-Kompilacja przy uzyciu jednego polecenia:
+2.Pobierz z folderu archive interesujaca Cie wersje programu. \
+Informacje o sposobie dzialania kazdej wersji znajduja sie w pliku README.md
+
+3.Rozpakuj plik przy pomocy polecenia:
 ```sh
-libtoolize && aclocal && automake --add-missing && autoconf && automake && ./configure && gcc -v && make
+$ tar -xf zad2-(VERSION).tar.gz
+```
+Na przyklad:
+```sh
+$ tar -xf zad2-3.7.tar.gz
 ```
 
-Archiwizacja skompilowanego programu przy pomocy polecenia
+4.Skompiluj rozpakowane pliki poleceniem:
 ```sh
-$ make dist
+$ aclocal && autoconf && automake && ./configure && make
+```
+
+5.Uruchom skompilowany program poleceniem:
+```sh
+$ ./src/main
 ```
