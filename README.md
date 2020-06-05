@@ -3,7 +3,7 @@ Version: 3.7
 ## Spis tresci
 * [Informacje ogolne](#informacje-ogolne)
 * [Sposob uzycia](#sposob-uzycia)
-* [Instalacja poprzez plik z .tar.gz](#instalacja-poprzez-plik-z-.tar.gz)
+* [Instalacja poprzez plik z archiwum](#instalacja-poprzez-plik-z-archiwum)
 * [Historia wersji](#historia-wersji)
 * [Licencja](#licencja)
 * [Autor](#autor)
@@ -40,7 +40,7 @@ Ustawienie kompilatora (sudo gcc -v) wystarczy zrobic tylko raz na systemie oper
 $ ./src/main
 ```
 
-## Instalacja poprzez plik z .tar.gz
+## Instalacja poprzez plik z archiwum
 Instrukcja instalacji poprzez plik z archiwum znajduje sie w pliku [INSTALL.md](INSTALL.md "Link do pliku INSTALL.md")
 
 ## Historia wersji
