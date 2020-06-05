@@ -1,5 +1,5 @@
 # Zadanie 2
-Version: 3.6
+Version: 3.7
 ## Spis tresci
 * [Informacje ogolne](#informacje-ogolne)
 * [Sposob uzycia](#sposob-uzycia)

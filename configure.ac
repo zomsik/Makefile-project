@@ -1,5 +1,5 @@
 # Inicjalizacja AC: (nazwa,wersja)
-AC_INIT([Zad2],[1.0])
+AC_INIT([Zad2],[3.7])
 # Inicjalizacja Automake
 AM_INIT_AUTOMAKE
 # Inicjalizacja Libtoola
