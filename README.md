@@ -4,7 +4,8 @@ Version: 3.6
 * [Informacje ogolne](#informacje-ogolne)
 * [Sposob uzycia](#sposob-uzycia)
 * [Historia wersji](#historia-wersji)
-* [Licencja](licencja)
+* [Licencja](#licencja)
+* [Autor](#autor)
 
 ## Informacje ogolne
 Program ma na celu liczenie pola kwadratu i objetosci szescianu o boku podanym przez uzytkownika. \
@@ -28,9 +29,11 @@ $ automake --add-missing
 $ autoconf
 $ automake
 $ ./configure
-$ sudo gcc-v
+$ sudo gcc -v
 $ make
 ```
+Ustawienie kompilatora (sudo gcc -v) wystarczy zrobic tylko raz na systemie operacyjnym.
+
 4.Program uruchomiany jest nastepujaco:
 ```sh
 $ ./src/main
@@ -46,3 +49,8 @@ $ ./src/main
 
 ## Licencja
 Licencja MIT zawarta w pliku LICENSE
+
+## Autor
+Autorem repozytorium jest [Tomasz Wiejak](https://github.com/zomsik "Link do profilu github")
+Podziekowania dla Barisa Yuksela swietny za poradnik na Youtubie odnosnie automake \
+oraz dla spolecznosci overstackflow.com za rozwianie wszelkich watpliwosci.
